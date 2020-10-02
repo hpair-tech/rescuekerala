@@ -58,6 +58,7 @@ def create_csv_response(csv_name, header_row, body_rows):
     return response
 
 
+
 class RequestAdmin(admin.ModelAdmin):
     actions = ['download_csv', 'mark_as_completed', 'mark_as_new', 'mark_as_ongoing']
     readonly_fields = ('dateadded',)
