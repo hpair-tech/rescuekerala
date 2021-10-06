@@ -96,8 +96,6 @@ https://github.com/vigneshhari/keralarescue_test_settings for local testing.
 pip3 install -r requirements_debug.txt
 ```
 
-
-    
 </details>
 
 <details>
