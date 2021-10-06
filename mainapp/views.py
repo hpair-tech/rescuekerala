@@ -3,6 +3,7 @@ from django.shortcuts import render
 from django.views.generic.edit import CreateView, UpdateView
 from django.views.generic.base import TemplateView
 
+
 from django.views.generic.list import ListView
 
 from mainapp.redis_queue import sms_queue
