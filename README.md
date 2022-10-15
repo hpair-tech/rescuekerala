@@ -268,4 +268,3 @@ has the bug number in the branch name.
 
 ### Flood Map
 You can find the repo for the Flood Map here : https://github.com/aswinmohanme/kerala-flood-map
-
