@@ -225,7 +225,7 @@ Note: If you have cloned a fork of IEEEKeralaSection/rescuekerala, replace ```or
     ```
 3. Run Migration
 </details>
-
+ 
 <details>
 <summary>Submitting Pull Requests
 
