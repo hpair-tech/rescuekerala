@@ -32,7 +32,7 @@
 [^top](#table-of-contents)
 
 * **Docker**  
-            - Check out this [Wiki](https://github.com/IEEEKeralaSection/rescuekerala/wiki/Using-Docker) to see how to run docker for this project.
+            - Check this out: [Wiki](https://github.com/IEEEKeralaSection/rescuekerala/wiki/Using-Docker) to see how to run docker for this project.
 * **[Python 3](https://www.python.org/downloads/)**  
 * **[Postgres](https://www.postgresql.org/download/)**  
 * **[Git](https://git-scm.com/downloads)**  
